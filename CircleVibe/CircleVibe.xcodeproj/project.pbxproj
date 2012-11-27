@@ -7,6 +7,37 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		706D7E7216649DAA00590827 /* cofirmbg.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E7016649DAA00590827 /* cofirmbg.png */; };
+		706D7E7316649DAA00590827 /* cofirmbg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E7116649DAA00590827 /* cofirmbg@2x.png */; };
+		706D7E7A16649DBA00590827 /* cofirmformbg.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E7416649DBA00590827 /* cofirmformbg.png */; };
+		706D7E7B16649DBA00590827 /* cofirmformbg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E7516649DBA00590827 /* cofirmformbg@2x.png */; };
+		706D7E7C16649DBA00590827 /* nobtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E7616649DBA00590827 /* nobtn.png */; };
+		706D7E7D16649DBA00590827 /* nobtn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E7716649DBA00590827 /* nobtn@2x.png */; };
+		706D7E7E16649DBA00590827 /* yesbtn.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E7816649DBA00590827 /* yesbtn.png */; };
+		706D7E7F16649DBA00590827 /* yesbtn@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E7916649DBA00590827 /* yesbtn@2x.png */; };
+		706D7E8C1664A2B200590827 /* connecttxt.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E821664A2B200590827 /* connecttxt.png */; };
+		706D7E8D1664A2B200590827 /* connecttxt@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E831664A2B200590827 /* connecttxt@2x.png */; };
+		706D7E8E1664A2B200590827 /* emailcheck.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E841664A2B200590827 /* emailcheck.png */; };
+		706D7E8F1664A2B200590827 /* emailcheck@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E851664A2B200590827 /* emailcheck@2x.png */; };
+		706D7E901664A2B200590827 /* facebookcnt.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E861664A2B200590827 /* facebookcnt.png */; };
+		706D7E911664A2B200590827 /* facebookcnt@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E871664A2B200590827 /* facebookcnt@2x.png */; };
+		706D7E921664A2B200590827 /* fsquare.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E881664A2B200590827 /* fsquare.png */; };
+		706D7E931664A2B200590827 /* fsquare@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E891664A2B200590827 /* fsquare@2x.png */; };
+		706D7E941664A2B200590827 /* next.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E8A1664A2B200590827 /* next.png */; };
+		706D7E951664A2B200590827 /* next@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E8B1664A2B200590827 /* next@2x.png */; };
+		706D7E981664A5DF00590827 /* EmailConfirmViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 706D7E971664A5DF00590827 /* EmailConfirmViewController.m */; };
+		706D7EA31664AA5600590827 /* circleactive.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E9B1664AA5600590827 /* circleactive.png */; };
+		706D7EA41664AA5600590827 /* circleactive@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E9C1664AA5600590827 /* circleactive@2x.png */; };
+		706D7EA51664AA5600590827 /* circleinactive.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E9D1664AA5600590827 /* circleinactive.png */; };
+		706D7EA61664AA5600590827 /* circleinactive@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E9E1664AA5600590827 /* circleinactive@2x.png */; };
+		706D7EA71664AA5600590827 /* selectformbg.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7E9F1664AA5600590827 /* selectformbg.png */; };
+		706D7EA81664AA5600590827 /* selectformbg@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7EA01664AA5600590827 /* selectformbg@2x.png */; };
+		706D7EA91664AA5600590827 /* seperator.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7EA11664AA5600590827 /* seperator.png */; };
+		706D7EAA1664AA5600590827 /* seperator@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7EA21664AA5600590827 /* seperator@2x.png */; };
+		706D7EAD1664AA6B00590827 /* FrequentPlacesViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 706D7EAC1664AA6B00590827 /* FrequentPlacesViewController.m */; };
+		706D7EB21664C0D400590827 /* FindFriendsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 706D7EB11664C0D400590827 /* FindFriendsViewController.m */; };
+		706D7EB51664C12000590827 /* findfriends.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7EB31664C12000590827 /* findfriends.png */; };
+		706D7EB61664C12000590827 /* findfriends@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 706D7EB41664C12000590827 /* findfriends@2x.png */; };
 		7073A26A16627AC200198E20 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7073A26916627AC200198E20 /* UIKit.framework */; };
 		7073A26C16627AC200198E20 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7073A26B16627AC200198E20 /* Foundation.framework */; };
 		7073A26E16627AC200198E20 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 7073A26D16627AC200198E20 /* CoreGraphics.framework */; };
@@ -73,6 +104,40 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		706D7E7016649DAA00590827 /* cofirmbg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cofirmbg.png; sourceTree = "<group>"; };
+		706D7E7116649DAA00590827 /* cofirmbg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cofirmbg@2x.png"; sourceTree = "<group>"; };
+		706D7E7416649DBA00590827 /* cofirmformbg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = cofirmformbg.png; sourceTree = "<group>"; };
+		706D7E7516649DBA00590827 /* cofirmformbg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "cofirmformbg@2x.png"; sourceTree = "<group>"; };
+		706D7E7616649DBA00590827 /* nobtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = nobtn.png; sourceTree = "<group>"; };
+		706D7E7716649DBA00590827 /* nobtn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "nobtn@2x.png"; sourceTree = "<group>"; };
+		706D7E7816649DBA00590827 /* yesbtn.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = yesbtn.png; sourceTree = "<group>"; };
+		706D7E7916649DBA00590827 /* yesbtn@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "yesbtn@2x.png"; sourceTree = "<group>"; };
+		706D7E821664A2B200590827 /* connecttxt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = connecttxt.png; sourceTree = "<group>"; };
+		706D7E831664A2B200590827 /* connecttxt@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "connecttxt@2x.png"; sourceTree = "<group>"; };
+		706D7E841664A2B200590827 /* emailcheck.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = emailcheck.png; sourceTree = "<group>"; };
+		706D7E851664A2B200590827 /* emailcheck@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "emailcheck@2x.png"; sourceTree = "<group>"; };
+		706D7E861664A2B200590827 /* facebookcnt.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = facebookcnt.png; sourceTree = "<group>"; };
+		706D7E871664A2B200590827 /* facebookcnt@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebookcnt@2x.png"; sourceTree = "<group>"; };
+		706D7E881664A2B200590827 /* fsquare.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = fsquare.png; sourceTree = "<group>"; };
+		706D7E891664A2B200590827 /* fsquare@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fsquare@2x.png"; sourceTree = "<group>"; };
+		706D7E8A1664A2B200590827 /* next.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = next.png; sourceTree = "<group>"; };
+		706D7E8B1664A2B200590827 /* next@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "next@2x.png"; sourceTree = "<group>"; };
+		706D7E961664A5DF00590827 /* EmailConfirmViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EmailConfirmViewController.h; sourceTree = "<group>"; };
+		706D7E971664A5DF00590827 /* EmailConfirmViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EmailConfirmViewController.m; sourceTree = "<group>"; };
+		706D7E9B1664AA5600590827 /* circleactive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circleactive.png; sourceTree = "<group>"; };
+		706D7E9C1664AA5600590827 /* circleactive@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "circleactive@2x.png"; sourceTree = "<group>"; };
+		706D7E9D1664AA5600590827 /* circleinactive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = circleinactive.png; sourceTree = "<group>"; };
+		706D7E9E1664AA5600590827 /* circleinactive@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "circleinactive@2x.png"; sourceTree = "<group>"; };
+		706D7E9F1664AA5600590827 /* selectformbg.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = selectformbg.png; sourceTree = "<group>"; };
+		706D7EA01664AA5600590827 /* selectformbg@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "selectformbg@2x.png"; sourceTree = "<group>"; };
+		706D7EA11664AA5600590827 /* seperator.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = seperator.png; sourceTree = "<group>"; };
+		706D7EA21664AA5600590827 /* seperator@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "seperator@2x.png"; sourceTree = "<group>"; };
+		706D7EAB1664AA6B00590827 /* FrequentPlacesViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FrequentPlacesViewController.h; sourceTree = "<group>"; };
+		706D7EAC1664AA6B00590827 /* FrequentPlacesViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FrequentPlacesViewController.m; sourceTree = "<group>"; };
+		706D7EB01664C0D400590827 /* FindFriendsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FindFriendsViewController.h; sourceTree = "<group>"; };
+		706D7EB11664C0D400590827 /* FindFriendsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FindFriendsViewController.m; sourceTree = "<group>"; };
+		706D7EB31664C12000590827 /* findfriends.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = findfriends.png; sourceTree = "<group>"; };
+		706D7EB41664C12000590827 /* findfriends@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "findfriends@2x.png"; sourceTree = "<group>"; };
 		7073A26516627AC200198E20 /* CircleVibe.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = CircleVibe.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7073A26916627AC200198E20 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
 		7073A26B16627AC200198E20 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
@@ -161,6 +226,100 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		706D7E6D16649D9500590827 /* Confirm */ = {
+			isa = PBXGroup;
+			children = (
+				706D7E6F16649D9B00590827 /* Images */,
+			);
+			name = Confirm;
+			sourceTree = "<group>";
+		};
+		706D7E6F16649D9B00590827 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				706D7E7416649DBA00590827 /* cofirmformbg.png */,
+				706D7E7516649DBA00590827 /* cofirmformbg@2x.png */,
+				706D7E7616649DBA00590827 /* nobtn.png */,
+				706D7E7716649DBA00590827 /* nobtn@2x.png */,
+				706D7E7816649DBA00590827 /* yesbtn.png */,
+				706D7E7916649DBA00590827 /* yesbtn@2x.png */,
+				706D7E7016649DAA00590827 /* cofirmbg.png */,
+				706D7E7116649DAA00590827 /* cofirmbg@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		706D7E801664A29B00590827 /* Screen 2 */ = {
+			isa = PBXGroup;
+			children = (
+				706D7E811664A2A200590827 /* Images */,
+				706D7E961664A5DF00590827 /* EmailConfirmViewController.h */,
+				706D7E971664A5DF00590827 /* EmailConfirmViewController.m */,
+			);
+			name = "Screen 2";
+			sourceTree = "<group>";
+		};
+		706D7E811664A2A200590827 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				706D7E821664A2B200590827 /* connecttxt.png */,
+				706D7E831664A2B200590827 /* connecttxt@2x.png */,
+				706D7E841664A2B200590827 /* emailcheck.png */,
+				706D7E851664A2B200590827 /* emailcheck@2x.png */,
+				706D7E861664A2B200590827 /* facebookcnt.png */,
+				706D7E871664A2B200590827 /* facebookcnt@2x.png */,
+				706D7E881664A2B200590827 /* fsquare.png */,
+				706D7E891664A2B200590827 /* fsquare@2x.png */,
+				706D7E8A1664A2B200590827 /* next.png */,
+				706D7E8B1664A2B200590827 /* next@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		706D7E991664AA3200590827 /* Screen 3 */ = {
+			isa = PBXGroup;
+			children = (
+				706D7E9A1664AA3A00590827 /* Images */,
+				706D7EAB1664AA6B00590827 /* FrequentPlacesViewController.h */,
+				706D7EAC1664AA6B00590827 /* FrequentPlacesViewController.m */,
+			);
+			name = "Screen 3";
+			sourceTree = "<group>";
+		};
+		706D7E9A1664AA3A00590827 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				706D7E9B1664AA5600590827 /* circleactive.png */,
+				706D7E9C1664AA5600590827 /* circleactive@2x.png */,
+				706D7E9D1664AA5600590827 /* circleinactive.png */,
+				706D7E9E1664AA5600590827 /* circleinactive@2x.png */,
+				706D7E9F1664AA5600590827 /* selectformbg.png */,
+				706D7EA01664AA5600590827 /* selectformbg@2x.png */,
+				706D7EA11664AA5600590827 /* seperator.png */,
+				706D7EA21664AA5600590827 /* seperator@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		706D7EAE1664C05E00590827 /* Screen4 */ = {
+			isa = PBXGroup;
+			children = (
+				706D7EAF1664C06500590827 /* Images */,
+				706D7EB01664C0D400590827 /* FindFriendsViewController.h */,
+				706D7EB11664C0D400590827 /* FindFriendsViewController.m */,
+			);
+			name = Screen4;
+			sourceTree = "<group>";
+		};
+		706D7EAF1664C06500590827 /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				706D7EB31664C12000590827 /* findfriends.png */,
+				706D7EB41664C12000590827 /* findfriends@2x.png */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
 		7073A25A16627AC200198E20 = {
 			isa = PBXGroup;
 			children = (
@@ -323,6 +482,10 @@
 		7073A2F116636D9000198E20 /* Signup */ = {
 			isa = PBXGroup;
 			children = (
+				706D7EAE1664C05E00590827 /* Screen4 */,
+				706D7E991664AA3200590827 /* Screen 3 */,
+				706D7E801664A29B00590827 /* Screen 2 */,
+				706D7E6D16649D9500590827 /* Confirm */,
 				7073A2F216636D9A00198E20 /* Images */,
 				7073A30F1663712E00198E20 /* SignUpViewController.h */,
 				7073A3101663712E00198E20 /* SignUpViewController.m */,
@@ -455,6 +618,34 @@
 				7073A30C16636DAC00198E20 /* signupbg@2x.png in Resources */,
 				7073A30D16636DAC00198E20 /* signupform.png in Resources */,
 				7073A30E16636DAC00198E20 /* signupform@2x.png in Resources */,
+				706D7E7216649DAA00590827 /* cofirmbg.png in Resources */,
+				706D7E7316649DAA00590827 /* cofirmbg@2x.png in Resources */,
+				706D7E7A16649DBA00590827 /* cofirmformbg.png in Resources */,
+				706D7E7B16649DBA00590827 /* cofirmformbg@2x.png in Resources */,
+				706D7E7C16649DBA00590827 /* nobtn.png in Resources */,
+				706D7E7D16649DBA00590827 /* nobtn@2x.png in Resources */,
+				706D7E7E16649DBA00590827 /* yesbtn.png in Resources */,
+				706D7E7F16649DBA00590827 /* yesbtn@2x.png in Resources */,
+				706D7E8C1664A2B200590827 /* connecttxt.png in Resources */,
+				706D7E8D1664A2B200590827 /* connecttxt@2x.png in Resources */,
+				706D7E8E1664A2B200590827 /* emailcheck.png in Resources */,
+				706D7E8F1664A2B200590827 /* emailcheck@2x.png in Resources */,
+				706D7E901664A2B200590827 /* facebookcnt.png in Resources */,
+				706D7E911664A2B200590827 /* facebookcnt@2x.png in Resources */,
+				706D7E921664A2B200590827 /* fsquare.png in Resources */,
+				706D7E931664A2B200590827 /* fsquare@2x.png in Resources */,
+				706D7E941664A2B200590827 /* next.png in Resources */,
+				706D7E951664A2B200590827 /* next@2x.png in Resources */,
+				706D7EA31664AA5600590827 /* circleactive.png in Resources */,
+				706D7EA41664AA5600590827 /* circleactive@2x.png in Resources */,
+				706D7EA51664AA5600590827 /* circleinactive.png in Resources */,
+				706D7EA61664AA5600590827 /* circleinactive@2x.png in Resources */,
+				706D7EA71664AA5600590827 /* selectformbg.png in Resources */,
+				706D7EA81664AA5600590827 /* selectformbg@2x.png in Resources */,
+				706D7EA91664AA5600590827 /* seperator.png in Resources */,
+				706D7EAA1664AA5600590827 /* seperator@2x.png in Resources */,
+				706D7EB51664C12000590827 /* findfriends.png in Resources */,
+				706D7EB61664C12000590827 /* findfriends@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -472,6 +663,9 @@
 				7073A2CB16634B3E00198E20 /* ForgotPasswordViewController.m in Sources */,
 				7073A2E4166351C200198E20 /* SentsuccessViewController.m in Sources */,
 				7073A3111663712E00198E20 /* SignUpViewController.m in Sources */,
+				706D7E981664A5DF00590827 /* EmailConfirmViewController.m in Sources */,
+				706D7EAD1664AA6B00590827 /* FrequentPlacesViewController.m in Sources */,
+				706D7EB21664C0D400590827 /* FindFriendsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -590,6 +784,7 @@
 				7073A28B16627AC200198E20 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

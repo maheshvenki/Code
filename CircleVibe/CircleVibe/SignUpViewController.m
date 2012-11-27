@@ -125,6 +125,7 @@
     [self setFemalebtn:nil];
     [self setScrollView:nil];
     [self setContentView:nil];
+    [self setCofirmView:nil];
     [super viewDidUnload];
 }
 - (IBAction)GenderSelected:(id)sender
@@ -139,5 +140,27 @@
         _malebtn.selected = YES;
         _femalebtn.selected = NO;
     }
+}
+- (IBAction)Done:(id)sender
+{
+   _cofirmView.hidden = NO;
+}
+
+- (IBAction)Confirm:(id)sender
+{
+    if([sender tag] == 100)
+    {
+        _cofirmView.hidden = YES;
+        [self performSegueWithIdentifier:@"signup2" sender:self];
+    }
+    else
+    {
+        _cofirmView.hidden = YES;
+    }
+}
+
+- (IBAction)Back:(id)sender
+{
+    [self.navigationController popViewControllerAnimated:YES];
 }
 @end

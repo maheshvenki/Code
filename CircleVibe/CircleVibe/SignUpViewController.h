@@ -22,6 +22,10 @@
 @property (strong, nonatomic) IBOutlet UIButton *femalebtn;
 - (IBAction)GenderSelected:(id)sender;
 @property (strong, nonatomic) IBOutlet UIScrollView *scrollView;
+@property (strong, nonatomic) IBOutlet UIView *cofirmView;
+- (IBAction)Done:(id)sender;
+- (IBAction)Confirm:(id)sender;
+- (IBAction)Back:(id)sender;
 
 @property (strong, nonatomic) IBOutlet UIView *contentView;
 @end
